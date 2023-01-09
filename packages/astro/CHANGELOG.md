@@ -1,5 +1,14 @@
 # astro
 
+## 2.0.0-beta.2
+
+### Patch Changes
+
+- [#5791](https://github.com/withastro/astro/pull/5791) [`f7aa1ec25`](https://github.com/withastro/astro/commit/f7aa1ec25d1584f7abd421903fbef66b1c050e2a) Thanks [@ba55ie](https://github.com/ba55ie)! - Fix Lit slotted content
+
+- Updated dependencies [[`16107b6a1`](https://github.com/withastro/astro/commit/16107b6a10514ef1b563e585ec9add4b14f42b94), [`7572f7402`](https://github.com/withastro/astro/commit/7572f7402238da37de748be58d678fedaf863b53)]:
+  - @astrojs/markdown-remark@2.0.0-beta.2
+
 ## 2.0.0-beta.1
 
 ### Major Changes

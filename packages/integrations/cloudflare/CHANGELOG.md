@@ -1,5 +1,18 @@
 # @astrojs/cloudflare
 
+## 6.0.0-beta.1
+
+### Major Changes
+
+- [#5806](https://github.com/withastro/astro/pull/5806) [`7572f7402`](https://github.com/withastro/astro/commit/7572f7402238da37de748be58d678fedaf863b53) Thanks [@matthewp](https://github.com/matthewp)! - Make astro a peerDependency of integrations
+
+  This marks `astro` as a peerDependency of several packages that are already getting `major` version bumps. This is so we can more properly track the dependency between them and what version of Astro they are being used with.
+
+### Patch Changes
+
+- Updated dependencies [[`f7aa1ec25`](https://github.com/withastro/astro/commit/f7aa1ec25d1584f7abd421903fbef66b1c050e2a)]:
+  - astro@2.0.0-beta.2
+
 ## 6.0.0-beta.0
 
 ### Major Changes
